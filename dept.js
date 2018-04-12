@@ -24,10 +24,10 @@ for(var i=0; i<depts.length; i++){
 }
 
 function grandTotal(depts){
-  var parts = [];
+  var partments = [];
 
   for(var i=0; i<depts.length; i++){
-    parts.push(depts);
-    console.log(parts[i].total);
+    partments.push(depts);
+    console.log(partments[i].total);
   }
 }
