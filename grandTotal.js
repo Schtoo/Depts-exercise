@@ -6,4 +6,4 @@ function grandTotal(){
   }
 return total;
 }
-grandTotal(depts);
+//grandTotal(depts);
